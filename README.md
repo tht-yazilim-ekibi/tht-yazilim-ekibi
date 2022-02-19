@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tht-yazilim-ekibi" alt="tht-yazilim-ekibi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/resmi_tht" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/resmi_tht?logo=twitter&style=for-the-badge" alt="https://twitter.com/resmi_tht" /></a> </p>
+<p align="left"> <a href="https://twitter.com/resmi_tht" target="blank"><img src="https://img.shields.io/twitter/follow/resmi_tht?logo=twitter&style=for-the-badge" alt="resmi_tht" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/resmi_tht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/resmi_tht" height="30" width="40" /></a>
+<a href="https://twitter.com/resmi_tht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="resmi_tht" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/turkhackteamofficial/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/turkhackteamofficial/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/resmi_tht/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/resmi_tht/" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/Z9Xy44CD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Z9Xy44CD" height="30" width="40" /></a>
